@@ -368,5 +368,14 @@
       "Expected commit message of 'Add the search feature', got 'Merge squash' instead."
     ],
     "status": "Incomplete"
+  },
+  {
+    "exercise_name": "mix-messy-graph",
+    "started_at": 1787228341.622186,
+    "completed_at": 1787228349.943231,
+    "comments": [
+      "Expected commit message of 'Add the search feature', got 'Merge squash' instead."
+    ],
+    "status": "Incomplete"
   }
 ]
