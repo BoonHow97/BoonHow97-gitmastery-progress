@@ -323,5 +323,14 @@
       "You aren't currently on the main branch. Checkout to that branch and try again!"
     ],
     "status": "Incomplete"
+  },
+  {
+    "exercise_name": "conflict-mediator",
+    "started_at": 1787224829.531307,
+    "completed_at": 1787224831.187719,
+    "comments": [
+      "Great work resolving the merge conflict!"
+    ],
+    "status": "Completed"
   }
 ]
